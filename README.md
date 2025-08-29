@@ -18,7 +18,7 @@ The Book Finder App is a React-based web application that allows users to search
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/harshlancer/elastic-rumple-hgyz6c.git
    cd book-finder-app
    ```
 
@@ -81,3 +81,4 @@ The app uses the [Open Library Search API](https://openlibrary.org/dev/docs/api/
 ## License
 This project is licensed under the MIT License.
 ```
+
